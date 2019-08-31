@@ -1,0 +1,51 @@
+
+.container{
+
+	text-align: center;
+	padding: 3%;
+	background: #fafaf3;
+	border: 1px solid black;
+	width: 50%;
+	margin: 20px auto;
+	box-shadow: 3px 3px 5px grey;
+	}
+
+input[type = "text"]{
+	width: 150px;
+	height: 25px;
+	border-radius: 2px;
+	border: 1px solid black;
+	margin: 10px;
+	font-size: 1.4em;
+}
+
+input[type = "radio"]{
+	width: 27px;
+	height: 27px;
+	position: relative;
+}
+
+#ops{
+	font-size: 35px;
+	font-weight: bold;
+	margin: 5px;
+}
+
+#oper_val{
+	font-size:35px;
+	font-weight: bold;
+	margin: 0 10px;
+}
+
+button{
+	height: 10px
+    font-weight: bold;
+    font-size: 20px;
+	padding: 4px 15px;
+	background-color: #000000;
+	border-style: none;
+	color: white;
+}
+
+
+
